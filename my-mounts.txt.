@@ -1,0 +1,10 @@
+Filesystem               Size  Used Avail Use% Mounted on
+devtmpfs                 972M     0  972M   0% /dev
+tmpfs                    985M     0  985M   0% /dev/shm
+tmpfs                    985M  1.6M  983M   1% /run
+tmpfs                    985M     0  985M   0% /sys/fs/cgroup
+/dev/mapper/fedora-root   29G  6.8G   21G  26% /
+tmpfs                    985M   76K  985M   1% /tmp
+/dev/sda1                976M  146M  764M  16% /boot
+tmpfs                    197M  5.7M  192M   3% /run/user/1000
+/dev/sr0                 1.8G  1.8G     0 100% /run/media/kevin/Fedora-WS-Live-29-1-2

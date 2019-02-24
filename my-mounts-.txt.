@@ -1,0 +1,34 @@
+Model: VMware, VMware Virtual S (scsi)
+Disk /dev/sda: 34.4GB
+Sector size (logical/physical): 512B/512B
+Partition Table: msdos
+Disk Flags: 
+
+Number  Start   End     Size    Type     File system  Flags
+ 1      1049kB  1075MB  1074MB  primary  ext4         boot
+ 2      1075MB  34.4GB  33.3GB  primary               lvm
+
+
+Model: VMware, VMware Virtual S (scsi)
+Disk /dev/sdb: 537MB
+Sector size (logical/physical): 512B/512B
+Partition Table: msdos
+Disk Flags: 
+
+Number  Start   End    Size   Type      File system  Flags
+ 2      1049kB  134MB  133MB  primary   ext4
+ 1      134MB   537MB  403MB  extended
+
+
+                                                                          Model: NECVMWar VMware IDE CDR10 (scsi)
+Disk /dev/sr0: 1931MB
+Sector size (logical/physical): 2048B/2048B
+Partition Table: mac
+Disk Flags: 
+
+Number  Start   End     Size    File system  Name   Flags
+ 1      2048B   10.2kB  8192B                Apple
+ 2      59.8MB  70.0MB  10.2MB               EFI
+ 3      70.0MB  91.5MB  21.5MB               EFI
+
+
